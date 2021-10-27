@@ -1,0 +1,4 @@
+with_mask_620_jpg.rf.15893c7b2c88a655a9208af70b04ddcc.jpg 0,0,414,415,0
+with_mask_622_jpg.rf.d791135da331438c62a106d26ec2c489.jpg 0,0,406,415,0
+without_mask_62_jpg.rf.b3786fd15ab18a9529feebf292f2978a.jpg 0,0,414,414,1
+with_mask_625_jpg.rf.bb2772b51c43d1bd095231478704dc47.jpg 0,0,411,412,0

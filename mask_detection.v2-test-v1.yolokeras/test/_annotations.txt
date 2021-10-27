@@ -1,0 +1,2 @@
+without_mask_629_jpg.rf.41af3d4357d5a1b175204b4e8fbef94f.jpg 2,0,416,414,1
+without_mask_628_jpg.rf.621e2e79c46fdbf3b4f9aeb3f8d0023b.jpg 4,2,415,414,1
