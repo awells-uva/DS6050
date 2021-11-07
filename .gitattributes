@@ -4,3 +4,4 @@ mask_detection.v2-test-v1.yolokeras filter=lfs diff=lfs merge=lfs -text
 mask_detection.v5-test-v2.yolokeras/ filter=lfs diff=lfs merge=lfs -text
 mask_detection.v9-test-v4.yolokeras/ filter=lfs diff=lfs merge=lfs -text
 mask_detection.v10-test-v5.yolokeras/ filter=lfs diff=lfs merge=lfs -text
+testimages filter=lfs diff=lfs merge=lfs -text
